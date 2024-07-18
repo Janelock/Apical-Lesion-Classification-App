@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513118252967",
+    "project_id": "alca-a91d7",
+    "storage_bucket": "alca-a91d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513118252967:android:12fe2457da45f7d2fb5082",
+        "android_client_info": {
+          "package_name": "com.example.gp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXuxplBkt5oP3mpesGv1tBMtRk8StBUXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513118252967:android:c37d5b54b762f0dbfb5082",
+        "android_client_info": {
+          "package_name": "com.example.name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXuxplBkt5oP3mpesGv1tBMtRk8StBUXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
